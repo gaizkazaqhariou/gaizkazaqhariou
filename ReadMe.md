@@ -1,7 +1,6 @@
 # 💫About Me : <br />
 🧑‍💼 I'm currently working on MG Glow Aesthetic Clinic. <br />
 👥 I'm looking to collaborate on Designing product. <br />
-🎈 I'm currently learning Advance Js. <br />
 👀 Fun fact, I'm good at papercrafting.
 
 ## 🌐Socials
